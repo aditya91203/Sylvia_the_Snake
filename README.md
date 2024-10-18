@@ -81,4 +81,3 @@
 
 Enjoy playing **Sylvia the Snake**! Feel free to modify and improve the game as you see fit.
 
-# Sylvia_the_Snake
